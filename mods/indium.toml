@@ -1,0 +1,13 @@
+name = "Indium"
+filename = "indium.jar"
+side = "client"
+
+[option]
+optional = true
+description = "Fabric rendering api re-implementation, only use if needed. Must include 'Sodium' as well"
+default = false
+
+[download]
+url = "https://github.com/The-Tiny-Taters/TTTM-AOF/raw/main/mods/jars/indium.jar"
+hash-format = "sha256"
+hash = "FC13721A395BDE212EAFB88EB0D91D042486231A849980D6FA34780AE97EB8AD"

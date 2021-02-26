@@ -1,0 +1,13 @@
+name = "Sodium"
+filename = "sodium.jar"
+side = "client"
+
+[option]
+optional = true
+description = "Framerate improvements, only use if needed. must include Indium as well"
+default = false
+
+[download]
+url = "https://github.com/The-Tiny-Taters/TTTM-AOF/raw/main/mods/jars/sodium.jar"
+hash-format = "sha256"
+hash = "89927E2B17562AC207F76D38DDB9FA9ADF0FC47BB088B64B2B07680688260274"

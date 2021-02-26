@@ -1,0 +1,19 @@
+name = "Lithium (Fabric)"
+filename = "lithium-fabric-mc1.16.5-0.6.3.jar"
+side = "both"
+
+[option]
+optional = true
+description = "Lithium performance improvements"
+default = true
+
+[download]
+url = "https://edge.forgecdn.net/files/3190/573/lithium-fabric-mc1.16.5-0.6.3.jar"
+hash-format = "murmur2"
+hash = "410990748"
+
+[update]
+[update.curseforge]
+file-id = 3190573
+project-id = 360438
+release-channel = "beta"

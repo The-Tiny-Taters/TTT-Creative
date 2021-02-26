@@ -41,8 +41,23 @@ hash = "11195c4da6d954c2d7db647140c61f950237fb1a772e0943cfd49f7d51fbdff8"
 metafile = true
 
 [[files]]
+file = "mods/indium.toml"
+hash = "a26234f77b223145a1fc98416a49d6ce1e7a9f2793788604a9103abb5e19506c"
+metafile = true
+
+[[files]]
 file = "mods/knowyourknot-enderporter.toml"
 hash = "ef7d97d6ebafe8b13ff2f3b4bca338cd75cfb08da27fc95c674e482a47e845a9"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "b47b2d6351087ad346299faff6daca6047870901fa3ce4c9a79bda719db0a74b"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "2034730274e8d3fa905b0c960b7d8f04f1241fb8c908a34272970dfba0c2a6cc"
 metafile = true
 
 [[files]]
@@ -51,8 +66,23 @@ hash = "633d43b44b91f7e04e61049748520a1b4e9745a0bdecbbcad9fbaaa0e5b0b51b"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.toml"
+hash = "cbc1c51c63ad8de8978eec90d85522d429391ce43d017a3bbe6d6da3d20b2bb1"
+metafile = true
+
+[[files]]
 file = "mods/now-playing.toml"
 hash = "df37ce8bb504facf809bd49ab2bee35ce514626fa492f6c18f4c0a86c17b608f"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.toml"
+hash = "a0d25fe86a7274ef247c69309772f3ae05cce6f58903162cfda99c0dd4bc8265"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "9edc0aa7b696d1303803fc1ea6ee1ab4a48e4ca688fdba1ff696b7ee35409810"
 metafile = true
 
 [[files]]
