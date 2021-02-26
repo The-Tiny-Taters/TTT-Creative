@@ -1,0 +1,14 @@
+name = "Now Playing"
+filename = "now-playing-1.1.4-fat.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3041/886/now-playing-1.1.4-fat.jar"
+hash-format = "murmur2"
+hash = "789328199"
+
+[update]
+[update.curseforge]
+file-id = 3041886
+project-id = 398652
+release-channel = "beta"

@@ -1,0 +1,76 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/bee-angry-est.toml"
+hash = "2435239d167a4145774414ebba545b0d4276428315f3b27dfe0695326666167b"
+metafile = true
+
+[[files]]
+file = "mods/bits-and-chisels.toml"
+hash = "f4035237541cfbd6bbdf30132c4771c24935d9079b0eb01b6b5436a2b4818670"
+metafile = true
+
+[[files]]
+file = "mods/bouncy-life.toml"
+hash = "47bfaab7bbca431093294334fcacd08877bbb8583cf3de0df89720c2a748da9b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "d968b237fe5395af954f1e65ec073c3b84b1f7b71676222efa0917ae781df478"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "6adaefc0a811c66067210409334dee17f2e68320878e785854d85d9985fb6c4f"
+metafile = true
+
+[[files]]
+file = "mods/fabric-permissions-api.toml"
+hash = "c4657471350d384624b4b42fd47a1a1f2b34e88686f23e0dc8a196b1a4d60277"
+metafile = true
+
+[[files]]
+file = "mods/fabric-zones.toml"
+hash = "9705f80d2f5e5fedc3cf9393846b1dc5f9cce29e14d5f2a12f5da8e969cba848"
+metafile = true
+
+[[files]]
+file = "mods/gift-it.toml"
+hash = "11195c4da6d954c2d7db647140c61f950237fb1a772e0943cfd49f7d51fbdff8"
+metafile = true
+
+[[files]]
+file = "mods/knowyourknot-enderporter.toml"
+hash = "ef7d97d6ebafe8b13ff2f3b4bca338cd75cfb08da27fc95c674e482a47e845a9"
+metafile = true
+
+[[files]]
+file = "mods/luck-perms.toml"
+hash = "633d43b44b91f7e04e61049748520a1b4e9745a0bdecbbcad9fbaaa0e5b0b51b"
+metafile = true
+
+[[files]]
+file = "mods/now-playing.toml"
+hash = "df37ce8bb504facf809bd49ab2bee35ce514626fa492f6c18f4c0a86c17b608f"
+metafile = true
+
+[[files]]
+file = "mods/territorial.toml"
+hash = "af7c56175d9a3d47086b7230de7449ba56989e745177260eb256c1f1bba5dfc4"
+metafile = true
+
+[[files]]
+file = "mods/through-the-looking-glass.toml"
+hash = "1d7f611c2af966658818dc7a7eb7ce90ca3fee69103e0ba7e19dc27c7863f281"
+metafile = true
+
+[[files]]
+file = "mods/toms-server-utils.toml"
+hash = "a6dc55f25cfbf9754f995952d74d9694bd604f90dac4465a7cc121535c19a7d2"
+metafile = true
+
+[[files]]
+file = "mods/world-border-fix.toml"
+hash = "3f2231bf2f91068bc38ecc15310685a3c244d115b2c27d9b04541df2a74fae38"
+metafile = true

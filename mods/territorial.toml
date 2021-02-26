@@ -1,0 +1,8 @@
+name = "Territorial"
+filename = "territorial-0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/profjb58/Territorial-Base/releases/download/v0.0.1/territorial-0.0.1.jar"
+hash-format = "sha256"
+hash = "7D57AD67C2B5309FE9C866FBAD26ED6FEBF7196C182534E6035264B5595DF1F9"

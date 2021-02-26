@@ -1,0 +1,8 @@
+name = "Through the looking glass"
+filename = "TTLG-ALPHA.8.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Dragonoidzero/Through-the-Looking-Glass/releases/download/2.0.0-alpha.8/TTLG-ALPHA.8.jar"
+hash-format = "sha256"
+hash = "B15AF9E27EE74C9C023893E34D306CB5B7F9F2B852311B7BC818B545CE4DA2FC"

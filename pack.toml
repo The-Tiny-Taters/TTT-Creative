@@ -1,0 +1,12 @@
+name = "TTT Creative"
+author = "The Tiny Taters"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9373dcab65b2beebb3452658e51be379f4140626b4d7ee1ad3316d82f3f6a0cd"
+
+[versions]
+fabric = "0.11.2"
+minecraft = "1.16.5"

@@ -1,0 +1,14 @@
+name = "[Fabric] Enderporter"
+filename = "enderporter-1.16.5-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3215/418/enderporter-1.16.5-1.0.1.jar"
+hash-format = "murmur2"
+hash = "2287126017"
+
+[update]
+[update.curseforge]
+file-id = 3215418
+project-id = 441763
+release-channel = "beta"

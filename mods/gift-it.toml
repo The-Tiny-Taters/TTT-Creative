@@ -1,0 +1,14 @@
+name = "Gift It! (Fabric)"
+filename = "giftit-1.3.2+mc1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3198/242/giftit-1.3.2+mc1.16.5.jar"
+hash-format = "murmur2"
+hash = "1575244830"
+
+[update]
+[update.curseforge]
+file-id = 3198242
+project-id = 323210
+release-channel = "beta"

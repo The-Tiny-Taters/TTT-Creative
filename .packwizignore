@@ -1,0 +1,13 @@
+.git/**
+.gitattributes
+.gitignore
+LICENSE
+README.md
+
+mods/jars/**
+servers.dat
+aof.zip
+
+# Exclude more tooltips, "[]" hashing is in-correct 
+config/more_tooltips.json
+mods/more-tooltips.toml

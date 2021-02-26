@@ -1,0 +1,14 @@
+name = "Fabric Language Kotlin"
+filename = "fabric-language-kotlin-1.4.21+build.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3136/960/fabric-language-kotlin-1.4.21+build.1.jar"
+hash-format = "murmur2"
+hash = "2641141579"
+
+[update]
+[update.curseforge]
+file-id = 3136960
+project-id = 308769
+release-channel = "beta"
