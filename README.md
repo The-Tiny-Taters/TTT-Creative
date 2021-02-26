@@ -1,5 +1,6 @@
 # TTTM-Creative
-The Tiny Tater Test modpack for the creative server
+The Tiny Tater Test modpack for our creative server
+  
 **Discord server:** [link](https://discord.gg/YeXshh3sKE)
 
 ## Additional mods
