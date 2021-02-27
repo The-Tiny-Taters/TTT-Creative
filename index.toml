@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/serverutils.toml"
-hash = "34ed5463294f8d7905e461937fb4502b939c3a9f05013c36eceba6f462c8a561"
-
-[[files]]
 file = "mods/bee-angry-est.toml"
 hash = "2435239d167a4145774414ebba545b0d4276428315f3b27dfe0695326666167b"
 metafile = true
