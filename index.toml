@@ -16,6 +16,11 @@ hash = "fc729093cca50810128203c1dd6276291c0fbdd8243d04841b3170370b65699c"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.toml"
+hash = "198b707765f67dd2baa93ad0c52f5a55411b8301c34f00764dd3f0a3f4eb6098"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "d968b237fe5395af954f1e65ec073c3b84b1f7b71676222efa0917ae781df478"
 metafile = true
@@ -43,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/indium.toml"
 hash = "a26234f77b223145a1fc98416a49d6ce1e7a9f2793788604a9103abb5e19506c"
+metafile = true
+
+[[files]]
+file = "mods/jei.toml"
+hash = "d5d890b4beac8df8226d8b3be6f050025dd9aef7119a2acee6d6412b6b7df632"
 metafile = true
 
 [[files]]
@@ -78,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/phosphor.toml"
 hash = "a0d25fe86a7274ef247c69309772f3ae05cce6f58903162cfda99c0dd4bc8265"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "be16719db2ee9f649d8767e310d66b34e03b2458831c25b9675cbe3db9d79fc5"
 metafile = true
 
 [[files]]
