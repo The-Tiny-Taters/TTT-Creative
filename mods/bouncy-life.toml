@@ -1,0 +1,13 @@
+name = "Bouncy Life"
+filename = "bouncylife-1.2.0-beta.3+mc1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/61Enc3x5/versions/1.2.0-beta.3+mc1.16.5/bouncylife-1.2.0-beta.3+mc1.16.5.jar"
+hash-format = "sha512"
+hash = "51d5dde6666e8b09bcb8da22fb47f691d3f91ab11c20ff3917c8e0571f20c7f38dfe94146ce12cb2a2e4ccba0c00a956cf1c4fdb6bfab9019d00c614f31a733c"
+
+[update]
+[update.modrinth]
+mod-id = "61Enc3x5"
+version = "gZuNjHb5"

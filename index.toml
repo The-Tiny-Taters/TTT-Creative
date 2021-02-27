@@ -11,6 +11,11 @@ hash = "f4035237541cfbd6bbdf30132c4771c24935d9079b0eb01b6b5436a2b4818670"
 metafile = true
 
 [[files]]
+file = "mods/bouncy-life.toml"
+hash = "fc729093cca50810128203c1dd6276291c0fbdd8243d04841b3170370b65699c"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "d968b237fe5395af954f1e65ec073c3b84b1f7b71676222efa0917ae781df478"
 metafile = true
