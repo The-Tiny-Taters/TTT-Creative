@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/serverutils.toml"
+hash = "34ed5463294f8d7905e461937fb4502b939c3a9f05013c36eceba6f462c8a561"
+
+[[files]]
 file = "mods/bee-angry-est.toml"
 hash = "2435239d167a4145774414ebba545b0d4276428315f3b27dfe0695326666167b"
 metafile = true
@@ -73,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.toml"
 hash = "cbc1c51c63ad8de8978eec90d85522d429391ce43d017a3bbe6d6da3d20b2bb1"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-crashes.toml"
+hash = "dae5aa8e237395df5e6d13a1529f2f7cc45a170bf30867c01b64095ba661eb60"
 metafile = true
 
 [[files]]

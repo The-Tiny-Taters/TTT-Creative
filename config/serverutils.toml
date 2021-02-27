@@ -1,0 +1,59 @@
+# Generic settings about the mod
+[general]
+    # Set to "DISCORD" after configuring the discordBot section below
+    mode = "DISCORD"
+    # Should the crash reporter module be enabled.
+    # To enable this, set the value from 'false' to 'true' and configure the webhook URL below in the [crash_report] section
+    crash_reports_enabled = true
+
+# Settings for the chat link when in Discord mode.
+[discordBot]
+    # Create a app at https://discord.com/developers/applications, add a bot and then copy the token here
+    token = "ODA3OTc0NjM4NTY2NzY4NjQw.YB_zBQ.YYENSVpTBA7j-UkXRz6RJzeopeE"
+    # The Discord webhook URL to send the Minecraft chat to
+    webhook = "https://discord.com/api/webhooks/814227657704865832/27am8aMlT53ACin1bIxt_xWMAAOXPd3RoezXeXLwl3XvLxE8M6whQ0qGHfJm3s5jvYk0"
+    # The ID of the channel to listen for messages to send to Minecraft.
+    message_channel = "815043901253353542"
+
+    # The icon to use for server messages (join, leave, etc)
+    # Default is a grass block icon.
+    server_icon = "https://avatars.githubusercontent.com/u/78625854?s=400&u=f0ba6a755f07a533160483a221e581b56ee6b64f&v=4"
+
+# Allowed mentions for chat messages being forwarded to Discord
+[discordBot.allowedMentions]
+    # Allow @everyone and @here
+    everyone = false
+    # Allow mentioning users
+    users = true
+    # Allow mentioning roles
+    roles = true
+
+# Misc settings used by multiple components
+[misc]
+    # Change the service used for player avatars.
+    # Will be used like: <profileEndpoint> + <player uuid> + "?overlay=" + <player helmet skin layer active>
+    profileEndpoint = "https://minotar.net/helm/"
+
+# Settings for the Discord crash reporter
+[crash_report]
+    # The URL of the Discord webhook to send crash notifications
+    webhook = "https://discord.com/api/webhooks/814228356572774410/LdOG7kutAwZcYI9xPl4VduPY_39wD_uDJ1IlfqwpRPVB5g51B6QWOoVQ3KciBgADx8RA"
+    # The username to display on the webhook message
+    webhook_name = "Server crash reporter"
+    # The URL to the icon for the webhook
+    # Default is a grass block icon.
+    webhook_icon = "https://avatars.githubusercontent.com/u/78625854?s=400&u=f0ba6a755f07a533160483a221e581b56ee6b64f&v=4"
+    # The name of the server to use in messages
+    server_name = "TTT Test Server"
+
+# Settings for the /home command
+[homes]
+    # Should the command be enabled
+    enabled = true
+    # Should players be allowed to use homes to travel across dimensions
+    allow_cross_dimension = true
+    # Maximum amount of homes a player can have
+    # Set to -1 for unlimited
+    max_home_amount = 3
+    # Should the maximum homes count be per-dimension (true), or across all dimensions (false)
+    maxHomesPerDimension = false
