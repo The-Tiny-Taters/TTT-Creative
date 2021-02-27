@@ -51,11 +51,6 @@ hash = "a26234f77b223145a1fc98416a49d6ce1e7a9f2793788604a9103abb5e19506c"
 metafile = true
 
 [[files]]
-file = "mods/jei.toml"
-hash = "d5d890b4beac8df8226d8b3be6f050025dd9aef7119a2acee6d6412b6b7df632"
-metafile = true
-
-[[files]]
 file = "mods/knowyourknot-enderporter.toml"
 hash = "ef7d97d6ebafe8b13ff2f3b4bca338cd75cfb08da27fc95c674e482a47e845a9"
 metafile = true
