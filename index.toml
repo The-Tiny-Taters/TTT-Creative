@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "dae5aa8e237395df5e6d13a1529f2f7cc45a170bf30867c01b64095ba661eb60"
+hash = "2637b14a660230b7938200e14c3746c6c401b6c5c83e4cfbed1fb0d6a2515f79"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/through-the-looking-glass.toml"
-hash = "e3ffde3ca008026afe78a27e53cc6fc11993e0ea6165f8dba2edf80b315830ce"
+hash = "7df934da95c8a8d0e8cfec76671b4fdb758411789b16ded911ab8a28d5364ca4"
 metafile = true
 
 [[files]]

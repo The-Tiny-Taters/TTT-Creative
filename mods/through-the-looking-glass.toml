@@ -1,8 +1,8 @@
 name = "Through the looking glass"
-filename = "TTLG-ALPHA.9.jar"
+filename = "TTLG-ALPHA.8.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Dragonoidzero/Through-the-Looking-Glass/releases/download/2.0.0-alpha.9/TTLG-ALPHA.9-dev.jar"
+url = "https://github.com/Dragonoidzero/Through-the-Looking-Glass/releases/download/2.0.0-alpha.8/TTLG-ALPHA.8-dev.jar"
 hash-format = "sha256"
-hash = "6A9EEDA1242757261DAD7424B443904557F35A65022141DA5CC188FFE0C0FF88"
+hash = "b15af9e27ee74c9c023893e34d306cb5b7f9f2b852311b7bc818b545ce4da2fc"
