@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/through-the-looking-glass.toml"
-hash = "7df934da95c8a8d0e8cfec76671b4fdb758411789b16ded911ab8a28d5364ca4"
+hash = "49299ad46e6c3eecff7f187dc7eb4ac966f30891b8f40f697c02576479f21292"
 metafile = true
 
 [[files]]
