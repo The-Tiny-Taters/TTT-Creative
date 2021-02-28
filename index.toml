@@ -7,12 +7,12 @@ metafile = true
 
 [[files]]
 file = "mods/bits-and-chisels.toml"
-hash = "f4035237541cfbd6bbdf30132c4771c24935d9079b0eb01b6b5436a2b4818670"
+hash = "494e32e135df69575d4c2e6a916f08b94042440e29c3d2909568251cf57566b6"
 metafile = true
 
 [[files]]
 file = "mods/bouncy-life.toml"
-hash = "fc729093cca50810128203c1dd6276291c0fbdd8243d04841b3170370b65699c"
+hash = "9626f63fe6e9d18190f2a6e5282d6797598ee88d84aeffa4c6d456a43b4a39ee"
 metafile = true
 
 [[files]]
@@ -102,12 +102,12 @@ metafile = true
 
 [[files]]
 file = "mods/territorial.toml"
-hash = "af7c56175d9a3d47086b7230de7449ba56989e745177260eb256c1f1bba5dfc4"
+hash = "879cf44c1bafeb8c19c6715e82b6303eb825014acb32bca5d942f916f3b2a808"
 metafile = true
 
 [[files]]
 file = "mods/through-the-looking-glass.toml"
-hash = "1d7f611c2af966658818dc7a7eb7ce90ca3fee69103e0ba7e19dc27c7863f281"
+hash = "e3ffde3ca008026afe78a27e53cc6fc11993e0ea6165f8dba2edf80b315830ce"
 metafile = true
 
 [[files]]
