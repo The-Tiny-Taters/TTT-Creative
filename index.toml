@@ -41,6 +41,11 @@ hash = "9705f80d2f5e5fedc3cf9393846b1dc5f9cce29e14d5f2a12f5da8e969cba848"
 metafile = true
 
 [[files]]
+file = "mods/geckolib-fabric.toml"
+hash = "a397d241ff746dfa4863525b4284d55927a6421e544e3ca941e1af3ba84e0411"
+metafile = true
+
+[[files]]
 file = "mods/gift-it.toml"
 hash = "11195c4da6d954c2d7db647140c61f950237fb1a772e0943cfd49f7d51fbdff8"
 metafile = true
@@ -52,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/knowyourknot-enderporter.toml"
-hash = "ef7d97d6ebafe8b13ff2f3b4bca338cd75cfb08da27fc95c674e482a47e845a9"
+hash = "5878b4d1256be5ccb9e1eb8b537cb448ccf7ecb3b20aae46dd15d064fa37f40c"
 metafile = true
 
 [[files]]
@@ -86,6 +91,11 @@ hash = "a0d25fe86a7274ef247c69309772f3ae05cce6f58903162cfda99c0dd4bc8265"
 metafile = true
 
 [[files]]
+file = "mods/rats-mischief.toml"
+hash = "24d2f424e00bf9eb04533bcfd96455d26f13a47b43597a03cda28e060bd51235"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "be16719db2ee9f649d8767e310d66b34e03b2458831c25b9675cbe3db9d79fc5"
 metafile = true
@@ -102,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/through-the-looking-glass.toml"
-hash = "49299ad46e6c3eecff7f187dc7eb4ac966f30891b8f40f697c02576479f21292"
+hash = "ee0daa58c214206b3ecb87f7055cd0c9d61f02c1cd7f7041c43bb2b962906db7"
 metafile = true
 
 [[files]]
