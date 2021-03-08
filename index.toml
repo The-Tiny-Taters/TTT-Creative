@@ -91,6 +91,11 @@ hash = "a0d25fe86a7274ef247c69309772f3ae05cce6f58903162cfda99c0dd4bc8265"
 metafile = true
 
 [[files]]
+file = "mods/pingspam.toml"
+hash = "71f3b6ee933dd368e9363968dff052b9265e0b90e22dd075ae19d96793471f38"
+metafile = true
+
+[[files]]
 file = "mods/rats-mischief.toml"
 hash = "24d2f424e00bf9eb04533bcfd96455d26f13a47b43597a03cda28e060bd51235"
 metafile = true
@@ -112,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/through-the-looking-glass.toml"
-hash = "49299ad46e6c3eecff7f187dc7eb4ac966f30891b8f40f697c02576479f21292"
+hash = "1fe8a3bec7f9a4ac7293805f9da1119f9db4d409ffb0c7eff89aa74ca4d7bfa8"
 metafile = true
 
 [[files]]
