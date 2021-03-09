@@ -21,7 +21,7 @@ key:
 | TomsServerUtils | Tom_The_Geek | Modrinth | S | N/A | [link](https://modrinth.com/mod/toms-server-utils) |
 | BeeAngryest | Juuz | Curse | C&S | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/bee-angry-est) |
 | Territorial | profjb | Github | C&S | N/A | [link](https://github.com/profjb58/Territorial-Base) |
-| Pingspam | BasiqueEvangelist | Modrinth | C&S | [link](https://modrinth.com/mod/pingspam) |
+| Pingspam | BasiqueEvangelist | Modrinth | C&S | N/A | [link](https://modrinth.com/mod/pingspam) |
 | ~~Cheater Deleter~~ | ~~CoolMineman (ThatTrollzer)~~ | ~~Github~~ | ~~S~~ | ~~N/A (I think)~~ |~~[link](https://github.com/CoolMineman/CheaterDeleter/actions)~~ |
 
 * Dependencies that are included into a 'fat' jar or are not included, same goes for any of the fabric-api modules
