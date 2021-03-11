@@ -1,8 +1,8 @@
 name = "Pingspam"
-filename = "pingspam-1.1.0-rc2.jar"
+filename = "pingspam-1.1.0-pre3.jar"
 side = "both"
 
 [download]
-url = "https://github.com/BasiqueEvangelist/pingspam/releases/download/1.1.0-pre2/pingspam-1.1.0-rc2.jar"
+url = "https://github.com/BasiqueEvangelist/pingspam/releases/download/1.1.0-pre3/pingspam-1.1.0-pre3.jar"
 hash-format = "sha256"
-hash = "03c7e3463e5d5586f4c8fbb490eb5b14c7a7e49f0959d9d45d99d4ff7041e616"
+hash = "b0b1bf082704f46c34d1a5d17fc45d1b56eea03ba926cb4107bf2ef4c4473267"

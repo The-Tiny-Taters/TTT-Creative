@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/pingspam.toml"
-hash = "71f3b6ee933dd368e9363968dff052b9265e0b90e22dd075ae19d96793471f38"
+hash = "b7a7f2c5c60c5751af84c6ccc852b042c07fed5a1e4511b027d4e9f39fdf20ce"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/through-the-looking-glass.toml"
-hash = "1fe8a3bec7f9a4ac7293805f9da1119f9db4d409ffb0c7eff89aa74ca4d7bfa8"
+hash = "544c3f4281581d40ddb2b334984898e53bef6e6d2ecf46e59a173cbced9e59bc"
 metafile = true
 
 [[files]]
