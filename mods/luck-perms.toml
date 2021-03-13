@@ -1,8 +1,0 @@
-name = "LuckPerms"
-filename = "LuckPerms-Fabric-5.2.113.jar"
-side = "server"
-
-[download]
-url = "https://ci.lucko.me/job/LuckPerms/1279/artifact/fabric/build/libs/LuckPerms-Fabric-5.2.113.jar"
-hash-format = "sha256"
-hash = "67D06F853984F0D0AC08F5C94EC7D86D3B896AF48E0A973E3997761D3F7168B0"

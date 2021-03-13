@@ -71,8 +71,8 @@ hash = "2034730274e8d3fa905b0c960b7d8f04f1241fb8c908a34272970dfba0c2a6cc"
 metafile = true
 
 [[files]]
-file = "mods/luck-perms.toml"
-hash = "633d43b44b91f7e04e61049748520a1b4e9745a0bdecbbcad9fbaaa0e5b0b51b"
+file = "mods/luckperms.toml"
+hash = "ff5f84dbf7a28ffcd672d0bc23de0e9c3d08697bdf8c1970e5d1355cd40bdd2b"
 metafile = true
 
 [[files]]
