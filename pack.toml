@@ -1,6 +1,6 @@
 name = "TTT Creative"
 author = "The Tiny Taters"
-version = "1.0.3"
+version = "1.0.5"
 
 [index]
 file = "index.toml"
