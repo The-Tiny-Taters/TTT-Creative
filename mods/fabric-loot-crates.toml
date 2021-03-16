@@ -1,0 +1,14 @@
+name = "Fabric Loot Crates"
+filename = "lootcrates-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3207/158/lootcrates-1.0.0.jar"
+hash-format = "murmur2"
+hash = "1968013357"
+
+[update]
+[update.curseforge]
+file-id = 3207158
+project-id = 445787
+release-channel = "beta"

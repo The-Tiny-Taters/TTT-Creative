@@ -1,14 +1,14 @@
 name = "World Border Fix"
-filename = "worldborderfix-1.0-fabric-1.16.5.jar"
+filename = "worldborderfix-1.1-fabric-1.16.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3192/0/worldborderfix-1.0-fabric-1.16.5.jar"
+url = "https://edge.forgecdn.net/files/3240/350/worldborderfix-1.1-fabric-1.16.5.jar"
 hash-format = "murmur2"
-hash = "2461742199"
+hash = "421376113"
 
 [update]
 [update.curseforge]
-file-id = 3192000
+file-id = 3240350
 project-id = 443120
 release-channel = "beta"

@@ -31,6 +31,11 @@ hash = "6adaefc0a811c66067210409334dee17f2e68320878e785854d85d9985fb6c4f"
 metafile = true
 
 [[files]]
+file = "mods/fabric-loot-crates.toml"
+hash = "33f5d8fb0515c29661b08f22ba03eb303fce786f1fd1961b1336407b7d5fffc9"
+metafile = true
+
+[[files]]
 file = "mods/fabric-permissions-api.toml"
 hash = "c4657471350d384624b4b42fd47a1a1f2b34e88686f23e0dc8a196b1a4d60277"
 metafile = true
@@ -48,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/gift-it.toml"
 hash = "11195c4da6d954c2d7db647140c61f950237fb1a772e0943cfd49f7d51fbdff8"
+metafile = true
+
+[[files]]
+file = "mods/globalspawn.toml"
+hash = "72c0e27e93c2c54b3b997be11884f2b592cae85176fe89beefec7d06b9e480e9"
 metafile = true
 
 [[files]]
@@ -97,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/pingspam.toml"
-hash = "ae8f4448f229d5b0e890ac2088c7bfb3661b56c6ff0026336c75f23e51044f7f"
+hash = "ce1b917c8ae9940bfc917a6f64546c4519d042ebdaf6ce1358a6ea969c58ba90"
 metafile = true
 
 [[files]]
@@ -113,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.toml"
 hash = "9edc0aa7b696d1303803fc1ea6ee1ab4a48e4ca688fdba1ff696b7ee35409810"
+metafile = true
+
+[[files]]
+file = "mods/starry-skies.toml"
+hash = "4ebd08a2fea5f6e00cbd6d5391d8a10d4de4a572b9f7cda1c7362a60a4e2e3c5"
 metafile = true
 
 [[files]]
@@ -132,5 +147,5 @@ metafile = true
 
 [[files]]
 file = "mods/world-border-fix.toml"
-hash = "3f2231bf2f91068bc38ecc15310685a3c244d115b2c27d9b04541df2a74fae38"
+hash = "8f5abfd3187abdee74dfc914878fe01415825e7ab47e13a3def8a0d27d9b256c"
 metafile = true
