@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/pingspam.toml"
-hash = "2844bb8b24d7b8f4dd7df518915007a6caa897f98325168e4916732caa5a3317"
+hash = "86b7c48e8c69858c824586a311b562600da905c402d51b1f485594e5b736ad1b"
 metafile = true
 
 [[files]]
