@@ -1,8 +1,13 @@
 name = "Pingspam"
-filename = "pingspam-1.1.0-pre5.jar"
+filename = "pingspam-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/BasiqueEvangelist/pingspam/releases/download/1.1.0-pre5/pingspam-1.1.0-pre5.jar"
-hash-format = "sha256"
-hash = "3FE1544A3E16AE9EDB34177BA57135C3ABBF1A41E9EFFE5D343C118CC1CCA30D"
+url = "https://cdn.modrinth.com/data/wpctvPCF/versions/1.1.1/pingspam-1.1.1.jar"
+hash-format = "sha512"
+hash = "a791d3c36be89dec81eeefb2b48bb3f1a958e8753ce19de23db19c7369dd3189c47b1d6241b6091a6a138bc7d2efddb89e50b9b802deaf8c5de4b96808d7b45d"
+
+[update]
+[update.modrinth]
+mod-id = "wpctvPCF"
+version = "FmqMZqBt"
