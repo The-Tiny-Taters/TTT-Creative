@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://cdn.modrinth.com/data/UXm0RHnT/versions/1.0.0/underfabric-1.0.0.jar"
 hash-format = "sha512"
-hash = "TODO"
+hash = "860322a2221233c583b866eb6394ebe9c3297f93eb7d5b73b1af3126aa105a20dd14f1134b67925fd0a46fd5012e33cb6ac61eea4a0e7d7ccd3adc524ca18308"
 
 [update]
 [update.modrinth]
