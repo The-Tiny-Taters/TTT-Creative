@@ -146,6 +146,11 @@ hash = "a6dc55f25cfbf9754f995952d74d9694bd604f90dac4465a7cc121535c19a7d2"
 metafile = true
 
 [[files]]
+file = "mods/underfabric.toml"
+hash = "354b87fa0c0c0e3b7c43074b3b4b0eb6f9609080eac982e4f447930f24ace552"
+metafile = true
+
+[[files]]
 file = "mods/world-border-fix.toml"
 hash = "8f5abfd3187abdee74dfc914878fe01415825e7ab47e13a3def8a0d27d9b256c"
 metafile = true
