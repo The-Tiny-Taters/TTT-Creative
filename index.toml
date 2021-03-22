@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-zones.toml"
-hash = "9705f80d2f5e5fedc3cf9393846b1dc5f9cce29e14d5f2a12f5da8e969cba848"
+hash = "343c389e78404ae2b5332272ef0902d09ab7ae8f6033ca8a2cc23519321a7edd"
 metafile = true
 
 [[files]]
