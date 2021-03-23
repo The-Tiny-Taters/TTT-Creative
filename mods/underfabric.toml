@@ -1,11 +1,11 @@
 name = "UnderFabric"
-filename = "underfabric-1.0.1.jar"
+filename = "underfabric-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/UXm0RHnT/versions/1.0.1/underfabric-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/UXm0RHnT/versions/1.0.2/underfabric-1.0.2.jar"
 hash-format = "sha512"
-hash = "2540881df70b750fbe153f9803530d24fa49389e6074c2ad2f00845f5b35b045b189cbd8214072d94940f8b778a3d64cbb86c21c427aea318da092ca3cafa527"
+hash = "b7633e76f7ba8eda997ecfab1a09a39891717d02663d19c9258b35a5fafff4fd72ceb4d58de64aff8b2c5cf0879b0ee2fa532654f2861aeca8b72a3b94a22d88"
 
 [update]
 [update.modrinth]
