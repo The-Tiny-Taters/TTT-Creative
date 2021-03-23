@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://github.com/BasiqueEvangelist/pingspam/releases/download/1.1.2-pre1/pingspam-1.1.2-pre1.jar"
 hash-format = "sha512"
-hash = "67223b6d52560d3b7d7256a3864656fa3b899adf3f4f50e8ce5147f9a7bcdcc6"
+hash = "ed647f26f5e55d0ec827519097455a5436c577106e1da630c9f7ad4f47d727b89170096adf87f924f8fea807d18676798e532778790eb116a6acf50206a93ba1"
