@@ -1,14 +1,14 @@
 name = "Bits And Chisels"
-filename = "bitsandchisels-2.1.2.jar"
+filename = "bitsandchisels-2.1.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3220/386/bitsandchisels-2.1.2.jar"
+url = "https://edge.forgecdn.net/files/3243/861/bitsandchisels-2.1.4.jar"
 hash-format = "murmur2"
-hash = "1361491377"
+hash = "2729677099"
 
 [update]
 [update.curseforge]
-file-id = 3220386
+file-id = 3243861
 project-id = 420709
 release-channel = "beta"
