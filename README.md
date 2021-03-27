@@ -18,7 +18,7 @@ key:
 | Bouncy Life | Siphalor | Modrinth | C&S | N/A | [link](https://modrinth.com/mod/bouncy-life) |
 | Now Playing | AppleTheGold | Curse | C | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/now-playing) |
 | FabricZones | SpaceClouds42 | Website | S | LuckPerms, fabric perms api | [link](https://spaceclouds42.github.io/FabricZones/releases.html) |
-| TomsServerUtils | Tom_The_Geek | Modrinth | S | N/A | [link](https://modrinth.com/mod/toms-server-utils) |
+| ~~TomsServerUtils~~ | ~~Tom_The_Geek~~ | ~~Modrinth~~ | ~~S~~ | ~~N/A~~ | ~~[link](https://modrinth.com/mod/toms-server-utils)~~ |
 | BeeAngryest | Juuz | Curse | C&S | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/bee-angry-est) |
 | Territorial | profjb | Github | C&S | N/A | [link](https://github.com/profjb58/Territorial-Base) |
 | Pingspam | BasiqueEvangelist | Modrinth | C&S | N/A | [link](https://modrinth.com/mod/pingspam) |

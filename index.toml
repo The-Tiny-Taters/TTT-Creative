@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/bits-and-chisels.toml"
-hash = "494e32e135df69575d4c2e6a916f08b94042440e29c3d2909568251cf57566b6"
+hash = "1d873734f2e3964fe45222bb1c7788cb6e91c08210d01853dd945e499d65ad34"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "6adaefc0a811c66067210409334dee17f2e68320878e785854d85d9985fb6c4f"
+hash = "6ea9be1422cb6fab23483546c06e94753412e9642099f46ab6a316ccf2c8403b"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.toml"
-hash = "ff5f84dbf7a28ffcd672d0bc23de0e9c3d08697bdf8c1970e5d1355cd40bdd2b"
+hash = "68fc8ec3c21073bb09659c3719ceb30b54f60d2737b5dba35956ba78d0fa7a4c"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/pingspam.toml"
-hash = "0b35c8cb051b944509d41e7f217304284dbe7301900d09590e37804ae848cabd"
+hash = "12bc7ec12a0d98b829dcc9e4c873a31fe066667b9f43498c6e872bafb6692433"
 metafile = true
 
 [[files]]
