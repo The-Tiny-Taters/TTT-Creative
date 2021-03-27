@@ -9,7 +9,7 @@ mods/jars/**
 servers.dat
 aof.zip
 
-packwiz
+packwiz.exe
 
 # Exclude more tooltips, "[]" hashing is in-correct 
 config/more_tooltips.json
