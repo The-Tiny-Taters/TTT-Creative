@@ -10,6 +10,7 @@ servers.dat
 aof.zip
 
 packwiz.exe
+packwiz
 
 # Exclude more tooltips, "[]" hashing is in-correct 
 config/more_tooltips.json
