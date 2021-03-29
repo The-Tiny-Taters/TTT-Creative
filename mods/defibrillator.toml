@@ -1,0 +1,13 @@
+name = "Defibrillator"
+filename = "defibrillator-0.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PDGQRddJ/versions/0.6.0/defibrillator-0.6.0.jar"
+hash-format = "sha512"
+hash = "a7e17473e19138abfdb0c371fe378ddf3317d4197a817be2a9b4187a0c6e1713a537be24cb482d30ee224f8f75a2d1a8880ebf1a11d448552630d6aabd3b946c"
+
+[update]
+[update.modrinth]
+mod-id = "PDGQRddJ"
+version = "exqisBuT"

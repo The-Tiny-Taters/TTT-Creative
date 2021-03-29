@@ -26,6 +26,11 @@ hash = "198b707765f67dd2baa93ad0c52f5a55411b8301c34f00764dd3f0a3f4eb6098"
 metafile = true
 
 [[files]]
+file = "mods/defibrillator.toml"
+hash = "6099786e0c18c882c870d9ae88b3d441de855b756f36a4ed2f4f9c752ab86c23"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "d968b237fe5395af954f1e65ec073c3b84b1f7b71676222efa0917ae781df478"
 metafile = true
