@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-op.toml"
-hash = "e009ff319f243eabdfe856afa54b5195c5f4d20efdcfad7a3a4f1395ab8ab479"
+hash = "764edbf08b5cf0e4f1b7a3034f06b81e6abf3a14848a5d9dd70d21f77dc27416"
 metafile = true
 
 [[files]]

@@ -1,8 +1,8 @@
 name = "Better Op"
-filename = "better-op-1.0.2.jar"
+filename = "better-op-1.0.3.jar"
 side = "server"
 
 [download]
-url = "https://github.com/The-Tiny-Taters/Better-Op/releases/download/v1.0.2/better-op-1.0.2.jar"
+url = "https://github.com/The-Tiny-Taters/Better-Op/releases/download/v1.0.3/better-op-1.0.3.jar"
 hash-format = "sha256"
-hash = "14c8623dab3c28cea4220086bb4014edea05cea0ee7a6d61f4380ff76dffb495"
+hash = "3c0dca430aa184d0428e21288efef3d0d01c9f07fe5f3ed0604cbb18a9fee83e"
