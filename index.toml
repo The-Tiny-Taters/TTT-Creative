@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/defibrillator.toml"
-hash = "6099786e0c18c882c870d9ae88b3d441de855b756f36a4ed2f4f9c752ab86c23"
+hash = "792de788a16e234e8e0afddda5ba5a53248cefb4b0b9c737ff2f13c8dc57692c"
 metafile = true
 
 [[files]]
