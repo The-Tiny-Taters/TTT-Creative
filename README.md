@@ -26,6 +26,7 @@ key:
 | Starry Skies | DaFuqsy | Curse | C&S | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/starry-skies) |
 | Global Spawn | DaFuqsy | Curse | C&S | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/globalspawn) |
 | UnderFabric | Stonewall0210 | Modrinth | C&S | N/A | [link](https://modrinth.com/mod/underfabric) |
+| Defibrillator | EternalFrost (Actually_A_Clone) | Modrinth | S | N/A | [link](https://modrinth.com/mod/defibrillator) |
 | ~~Cheater Deleter~~ | ~~CoolMineman (ThatTrollzer)~~ | ~~Github~~ | ~~S~~ | ~~N/A (I think)~~ |~~[link](https://github.com/CoolMineman/CheaterDeleter/actions)~~ |
 
 * Dependencies that are included into a 'fat' jar or are not included, same goes for any of the fabric-api modules
