@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/globalspawn.toml"
-hash = "72c0e27e93c2c54b3b997be11884f2b592cae85176fe89beefec7d06b9e480e9"
+hash = "8d09bab6352bcb557d6af209b178c70f5794c8935f6e281b0e6f8324aa5ae426"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/starry-skies.toml"
-hash = "4ebd08a2fea5f6e00cbd6d5391d8a10d4de4a572b9f7cda1c7362a60a4e2e3c5"
+hash = "4c32b0d6b58933f9b00c861e649eeae1b9885a4039bd3c80cda59b27ebe58cf7"
 metafile = true
 
 [[files]]
