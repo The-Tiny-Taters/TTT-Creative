@@ -3,7 +3,7 @@ The Tiny Tater Test modpack for our creative server
   
 **Discord server:** [link](https://discord.gg/YeXshh3sKE)
 
-## Additional mods
+## Mod List
 key:
 - C = Client
 - S = server
