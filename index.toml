@@ -71,6 +71,11 @@ hash = "8d09bab6352bcb557d6af209b178c70f5794c8935f6e281b0e6f8324aa5ae426"
 metafile = true
 
 [[files]]
+file = "mods/healthcare.toml"
+hash = "364ac56976f5e8e3f83e2c3eed18f4352fe24ca367321c40943054ca9ce2444a"
+metafile = true
+
+[[files]]
 file = "mods/indium.toml"
 hash = "a26234f77b223145a1fc98416a49d6ce1e7a9f2793788604a9103abb5e19506c"
 metafile = true
