@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/healthcare.toml"
-hash = "364ac56976f5e8e3f83e2c3eed18f4352fe24ca367321c40943054ca9ce2444a"
+hash = "77ddca02a72a51071b679b75ea9439b3ce224a5223a3b90298270b7f6fd86d60"
 metafile = true
 
 [[files]]
