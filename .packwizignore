@@ -11,6 +11,7 @@ aof.zip
 
 packwiz.exe
 packwiz
+autoupdate.bat
 
 # Exclude more tooltips, "[]" hashing is in-correct 
 config/more_tooltips.json
