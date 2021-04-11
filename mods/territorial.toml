@@ -1,8 +1,8 @@
 name = "Territorial"
-filename = "territorial-0.0.2.jar"
+filename = "territorial-0.0.3.jar"
 side = "both"
 
 [download]
-url = "https://github.com/profjb58/Territorial-Base/releases/download/v0.0.2/territorial-0.0.2.jar"
+url = "https://github.com/Archydra-Studios/Territorial-Base/releases/download/v0.0.3/territorial-0.0.3.jar"
 hash-format = "sha256"
-hash = "0CA96102CADC4F2A6DDD12782F53ED6E8B6D15386DB462A771017DF606175DDC"
+hash = "3079279C104493276792ADAEC2CEBC290A267A5D3AEBC08F9227A2615FA10ED6"
