@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/territorial.toml"
-hash = "879cf44c1bafeb8c19c6715e82b6303eb825014acb32bca5d942f916f3b2a808"
+hash = "5bdf8de738e55446dddc84c648660f4b8ba3e7e187f2631613922a60d907e044"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-server-utils.toml"
-hash = "d38c52697ad7908897d79dc0aeada307496d5f6d9d5f6980210c8998fce732b5"
+hash = "96f563463ac1e7e6736df396aa58538819aae431134d3a34f29729667e8792fa"
 metafile = true
 
 [[files]]
