@@ -1,0 +1,9 @@
+name = "Simple Angel Ring
+filename = "simpleangelring-2.0.0+1.16.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ModsByLeo/SimpleAngelRing/releases/download/v2.0.0%2B1.16/simpleangelring-2.0.0+1.16.jar"
+hash-format = "sha256"
+hash = "16C3766CF244A7C46061E182FE814C0920AB0A8DF56191185A9A667F3F3551AD"
+
