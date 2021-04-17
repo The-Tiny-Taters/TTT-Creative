@@ -24,9 +24,10 @@ The Tiny Tater Test modpack for our creative server
 | Pingspam | [@BasiqueEvangelist](https://github.com/BasiqueEvangelist) | [Modrinth](https://www.modrinth.com/mod/pingspam) |
 | Territorial Base | [@profjb](https://github.com/profjb58) | [GitHub](https://github.com/Archydra-Studios/territorial-base) |
 | Through the Looking Glass | [@azazelthedemonlord](https://github.com/Dragonoidzero) | [GitHub](https://github.com/Archydra-Studios/through-the-looking-glass) |
-| Underfabric | [StoneWall0210](https://github.com/Stonewall0210) | [Modrinth](https://modrinth.com/mod/underfabric) |
+| Underfabric | [Stonewall0210](https://github.com/Stonewall0210) | [Modrinth](https://modrinth.com/mod/underfabric) |
 | Starry Skies | [@DaFuqs](https://github.com/DaFuqs) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/starry-skies) |
 | Tiny Trash Can | [@Giggitybyte](https://github.com/Giggitybyte) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tiny-trash-can) |
+| :fritater: | [Stonewall0210](https://github.com/Stonewall0210) | [Modrinth](https://modrinth.com/mod/fritater) |
 
 #### Server Side
 | Mod name | Author | Mod Page |

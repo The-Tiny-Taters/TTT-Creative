@@ -61,6 +61,11 @@ hash = "a9153aad62dba5edc16e6a98e305d7ed945b6852ab285f8f0271faca0a3e55b7"
 metafile = true
 
 [[files]]
+file = "mods/fritater.toml"
+hash = "7f4360052155f4b2eb30dacf7137bbcef9cb6907e561957f52ebf5a3d03c8a73"
+metafile = true
+
+[[files]]
 file = "mods/geckolib-fabric.toml"
 hash = "a397d241ff746dfa4863525b4284d55927a6421e544e3ca941e1af3ba84e0411"
 metafile = true
@@ -93,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.toml"
 hash = "b47b2d6351087ad346299faff6daca6047870901fa3ce4c9a79bda719db0a74b"
+metafile = true
+
+[[files]]
+file = "mods/liltaterreloaded.toml"
+hash = "46e8287b44b84e7274b7054a01035825ca1a8c4a76b428a78057b51a3726a7ad"
 metafile = true
 
 [[files]]
