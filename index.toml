@@ -166,6 +166,11 @@ hash = "544c3f4281581d40ddb2b334984898e53bef6e6d2ecf46e59a173cbced9e59bc"
 metafile = true
 
 [[files]]
+file = "mods/tiny-trash-can.toml"
+hash = "1851f53a53b366d470ca8bdae092867bac921d76dbeb4cad8b3e46502a37b717"
+metafile = true
+
+[[files]]
 file = "mods/toms-server-utils.toml"
 hash = "96f563463ac1e7e6736df396aa58538819aae431134d3a34f29729667e8792fa"
 metafile = true
