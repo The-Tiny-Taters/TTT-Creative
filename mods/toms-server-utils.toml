@@ -1,13 +1,13 @@
 name = "TomsServerUtils"
-filename = "TomsServerTools-v0.5.0.jar"
+filename = "TomsServerTools-v0.6.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/ul4zTWk4/versions/0.5.0/TomsServerTools-0.5.0.jar"
+url = "https://cdn.modrinth.com/data/ul4zTWk4/versions/0.6.0/TomsServerTools-0.6.0.jar"
 hash-format = "sha512"
-hash = "2aa6e9792692f9e1c4e294145248dd9b8ffca3ba8ab21570dec1377768409ad5136a559d233c5667a520fb7ede66b733ceae2d12edbccfeb39cf1dd18ea9b9d9"
+hash = "d0fe38f0502c1f0f68f64aa165f1dbe181846de0fd955f91004831d0015202933b1b3e13b55e9cc61c17c4e15434b651febe079a379518cb77d76f24f8eb38dc"
 
 [update]
 [update.modrinth]
 mod-id = "ul4zTWk4"
-version = "2KunAfio"
+version = "OE2m3ij5"
