@@ -3,6 +3,6 @@ filename = "LilTaterReloaded-1.1.10+1.16.3"
 side = "both"
 
 [download]
-url = "https://modrinth.com/mod/T5VdCvvl/version/px9xyMDu"
+url = "https://github.com/Yoghurt4C/LilTaterReloaded/releases/download/1.1.10-BOOTLEG/LilTaterReloaded-1.1.10+1.16.3.jar"
 hash-format = "sha512"
 hash = "ad973df25adc3a22f7e1b3c0165b72397c6b18aff4e8ea6adf2c63d294d223f56d85d357406eeb73cc26197c83cbd478f2ec7cf9fffab1b32f608a07441cc6d1"
