@@ -26,6 +26,7 @@ The Tiny Tater Test modpack for our creative server
 | Through the Looking Glass | [@azazelthedemonlord](https://github.com/Dragonoidzero) | [GitHub](https://github.com/Archydra-Studios/through-the-looking-glass) |
 | Underfabric | [StoneWall0210](https://github.com/Stonewall0210) | [Modrinth](https://modrinth.com/mod/underfabric) |
 | Starry Skies | [@DaFuqs](https://github.com/DaFuqs) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/starry-skies) |
+| Tiny Trash Can | [@Giggitybyte](https://github.com/Giggitybyte) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tiny-trash-can) |
 
 #### Server Side
 | Mod name | Author | Mod Page |
