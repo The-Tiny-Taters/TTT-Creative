@@ -3,11 +3,11 @@ filename = "fritater-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/X0CU9Sb7/versions/1.0.0/fritater-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/X0CU9Sb7/versions/1.0.1/fritater-1.0.0.jar"
 hash-format = "sha512"
-hash = "3ccbfa94ceeabd9b99478062f06ed861b2890aac7046c3e5eab7485e5120d13bd6268d6ee0e12aa61c8e92e68c9dbf065e638de99eff708f8f4a4268f709e14b"
+hash = "b48905fdb2696cb383610b8fded92f1dc47d7378eb4e7f7f086a5ca9ade916cc8c1cf6b0465afc425709ac323a4554bc7cbe55453f1d7cd52321dc9d65eb2903"
 
 [update]
 [update.modrinth]
 mod-id = "X0CU9Sb7"
-version = "Vtxy4VKZ"
+version = "dUY3zwk1"

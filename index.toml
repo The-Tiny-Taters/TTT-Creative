@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/fritater.toml"
-hash = "7f4360052155f4b2eb30dacf7137bbcef9cb6907e561957f52ebf5a3d03c8a73"
+hash = "1d64a817a626be1279af051f0f10726e71d0d32dd3fa5a3461961b7d095a1f59"
 metafile = true
 
 [[files]]
