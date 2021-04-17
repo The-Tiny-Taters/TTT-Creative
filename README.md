@@ -31,6 +31,7 @@ The Tiny Tater Test modpack for our creative server
 #### Server Side
 | Mod name | Author | Mod Page |
 | -------- | ------ | -------- |
+| Toms Server Utils | [Geek202](https://github.com/Geek202) | [Modrinth](https://modrinth.com/mod/toms-server-utils) |
 | World Border Fix | [@Potatoboy](https://github.com/PotatoPresident) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/world-border-fix) |
 | FabricTPA | [@CodedSakura](https://github.com/CodedSakura) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabrictpa) |
 | FabricWarps | [@CodedSakura](https://github.com/CodedSakura) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabricwarps) |
