@@ -33,9 +33,7 @@ The Tiny Tater Test modpack for our creative server
 | -------- | ------ | -------- |
 | Toms Server Utils | [Geek202](https://github.com/Geek202) | [Modrinth](https://modrinth.com/mod/toms-server-utils) |
 | World Border Fix | [@Potatoboy](https://github.com/PotatoPresident) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/world-border-fix) |
-| FabricTPA | [@CodedSakura](https://github.com/CodedSakura) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabrictpa) |
 | FabricWarps | [@CodedSakura](https://github.com/CodedSakura) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabricwarps) |
-| FabricHomes | [@CodedSakura](https://github.com/CodedSakura) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabrichomes) |
 | Healthcare | [@samo_lego](https://github.com/samolego) | [Modrinth](https://www.modrinth.com/mod/healthcare) |
 | Fabric Zones | [@SpaceClouds42](https://github.com/SpaceClouds42) | [GitHub](https://www.github.com/SpaceClouds42/FabricZones) |
 
