@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/liltaterreloaded.toml"
-hash = "46e8287b44b84e7274b7054a01035825ca1a8c4a76b428a78057b51a3726a7ad"
+hash = "3e39a7cfe8d287eaf8f7eb42f2208b9b9c48df703b5a11ac97ec15e069e09416"
 metafile = true
 
 [[files]]
