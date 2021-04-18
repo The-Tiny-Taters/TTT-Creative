@@ -1,0 +1,14 @@
+name = "FabricHomes"
+filename = "FabricHomes-0.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3279/357/FabricHomes-0.1.3.jar"
+hash-format = "murmur2"
+hash = "1608370663"
+
+[update]
+[update.curseforge]
+file-id = 3279357
+project-id = 441291
+release-channel = "beta"

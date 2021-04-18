@@ -1,11 +1,11 @@
 name = "TTT Creative"
 author = "The Tiny Taters"
-version = "2.0.4"
+version = "2.0.5"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9d5f3d6cb27ed9613997f3d18eaec83b736db7d670c1c09f52da870b9a472d5b"
+hash = "e3c81c605acf17bf282668b54d574d731ef0b4db18822f4f2be74650beb7f5c5"
 
 [versions]
 fabric = "0.11.2"

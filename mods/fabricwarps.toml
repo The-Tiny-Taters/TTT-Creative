@@ -1,14 +1,14 @@
 name = "FabricWarps"
-filename = "FabricWarps-0.2.0.jar"
+filename = "FabricWarps-0.2.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3162/202/FabricWarps-0.2.0.jar"
+url = "https://edge.forgecdn.net/files/3279/358/FabricWarps-0.2.1.jar"
 hash-format = "murmur2"
-hash = "3305719501"
+hash = "3008964282"
 
 [update]
 [update.curseforge]
-file-id = 3162202
+file-id = 3279358
 project-id = 433362
 release-channel = "beta"
