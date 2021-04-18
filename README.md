@@ -28,6 +28,7 @@ The Tiny Tater Test modpack for our creative server
 | Starry Skies | [@DaFuqs](https://github.com/DaFuqs) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/starry-skies) |
 | Tiny Trash Can | [@Giggitybyte](https://github.com/Giggitybyte) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tiny-trash-can) |
 | :fritater: | [Stonewall0210](https://github.com/Stonewall0210) | [Modrinth](https://modrinth.com/mod/fritater) |
+| Immigistics | [Immibis](https://github.com/immibis) | [Website](https://fibercraft.immibis.com/immihf/project.jsp?id=immibis%3Aimmigistics) |
 
 #### Server Side
 | Mod name | Author | Mod Page |
