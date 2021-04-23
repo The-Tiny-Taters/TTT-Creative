@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-angel-ring.toml"
-hash = "b9bbecf6348b3ddc7a542912ef52cc98c74b118ac16aec9435e77ea719932dc5"
+hash = "beda7b17d00d6e384f909200899deb9ca0c740e1d000bf00e9bd2dcff80f5628"
 metafile = true
 
 [[files]]
