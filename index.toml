@@ -62,17 +62,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabrichomes.toml"
-hash = "861ec543bf0ed0594bf320c66079f3cf63479c60db1d892f31859048a878dc2e"
+hash = "0238a0b7787c35c352311e311f040ccd31829ccd8cd76056ece43e2a852d978c"
 metafile = true
 
 [[files]]
 file = "mods/fabrictpa.toml"
-hash = "527fc55c5c16bbd0ce16d66d3261e1bfcf3142f3d8d15a61032319b52dc43b6d"
+hash = "8b65dae015b9a8f1212cf61a85454640c798b2d08241f1495161a2f4ee655bd1"
 metafile = true
 
 [[files]]
 file = "mods/fabricwarps.toml"
-hash = "87086ff25e21a57a134675dbb6c962f173a1340e51a8359d5589d856f8d24270"
+hash = "f6f563bc1fbf1ef7cbe38735da8cacaa5192064420ba4f9527aa3b155be237d7"
 metafile = true
 
 [[files]]

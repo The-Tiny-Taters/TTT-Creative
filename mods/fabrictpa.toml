@@ -1,6 +1,6 @@
 name = "FabricTPA"
 filename = "FabricTPA-2.0.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://edge.forgecdn.net/files/3261/976/FabricTPA-2.0.1.jar"

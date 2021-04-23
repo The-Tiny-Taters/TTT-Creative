@@ -1,6 +1,6 @@
 name = "FabricHomes"
 filename = "FabricHomes-0.1.3.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://edge.forgecdn.net/files/3279/357/FabricHomes-0.1.3.jar"
