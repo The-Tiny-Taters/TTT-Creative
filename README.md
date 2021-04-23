@@ -29,6 +29,7 @@ The Tiny Tater Test modpack for our creative server
 | Tiny Trash Can | [@Giggitybyte](https://github.com/Giggitybyte) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tiny-trash-can) |
 | :fritater: | [@Stonewall0210](https://github.com/Stonewall0210) | [Modrinth](https://modrinth.com/mod/fritater) |
 | Immigistics | [@Immibis](https://github.com/immibis) | [Website](https://fibercraft.immibis.com/immihf/project.jsp?id=immibis%3Aimmigistics) |
+| Consistency+ | [@IMS212](https://github.com/IMS212) | [Modrinth](https://modrinth.com/mod/consistencyplus) |
 
 #### Server Side
 | Mod name | Author | Mod Page |
@@ -36,6 +37,8 @@ The Tiny Tater Test modpack for our creative server
 | Toms Server Utils | [@Geek202](https://github.com/Geek202) | [Modrinth](https://modrinth.com/mod/toms-server-utils) |
 | World Border Fix | [@Potatoboy](https://github.com/PotatoPresident) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/world-border-fix) |
 | FabricWarps | [@CodedSakura](https://github.com/CodedSakura) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabricwarps) |
+| FabricHomes | [@CodedSakura](https://github.com/CodedSakura) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabrichomes) |
+| FabricTPA | [@CodedSakura](https://github.com/CodedSakura) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabrictpa) |
 | Healthcare | [@samo_lego](https://github.com/samolego) | [Modrinth](https://www.modrinth.com/mod/healthcare) |
 | Fabric Zones | [@SpaceClouds42](https://github.com/SpaceClouds42) | [GitHub](https://www.github.com/SpaceClouds42/FabricZones) |
 
