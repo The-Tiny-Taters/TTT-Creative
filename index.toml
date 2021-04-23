@@ -26,6 +26,11 @@ hash = "198b707765f67dd2baa93ad0c52f5a55411b8301c34f00764dd3f0a3f4eb6098"
 metafile = true
 
 [[files]]
+file = "mods/consistencyplus.toml"
+hash = "48ca264f78795c8758273cb9d080663825dee27a0850b7362d5b0373b8c350af"
+metafile = true
+
+[[files]]
 file = "mods/defibrillator.toml"
 hash = "792de788a16e234e8e0afddda5ba5a53248cefb4b0b9c737ff2f13c8dc57692c"
 metafile = true
@@ -92,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/healthcare.toml"
-hash = "77ddca02a72a51071b679b75ea9439b3ce224a5223a3b90298270b7f6fd86d60"
+hash = "ea499f3213e2f179d5fe2e33ad0bbf9803b4970cf9b259ffef1021f025f8b762"
 metafile = true
 
 [[files]]

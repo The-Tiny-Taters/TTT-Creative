@@ -1,13 +1,13 @@
 name = "HealthCare"
-filename = "healthcare-1.0.1.jar"
+filename = "healthcare-1.0.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/NNqujQWr/versions/1.0.1/healthcare-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/NNqujQWr/versions/1.0.2/healthcare-1.0.2.jar"
 hash-format = "sha512"
-hash = "c6e3145d79407d78e6dbd7870400bd68bae73c18ec7440cc29df2842b68475ae94e24672d1e2e711b583354b9068d450387f8e406ae8ad33e75deb9d86b4565d"
+hash = "c64f51c425db0db3dcf30f31e51b07ca8096864eef1aec54d2b06a9e544a83e1f26d4ba6b840ca643613c456ed690b905b6a8a84fd618c4f3dceaad89676f5be"
 
 [update]
 [update.modrinth]
 mod-id = "NNqujQWr"
-version = "TzKI9Snr"
+version = "ps9CnBg9"
