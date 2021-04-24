@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/defibrillator.toml"
-hash = "792de788a16e234e8e0afddda5ba5a53248cefb4b0b9c737ff2f13c8dc57692c"
+hash = "568d2f5158c49df5763750fbe9049e88cd5837a730c1fbaca9119aeee62d94b6"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/territorial.toml"
-hash = "5bdf8de738e55446dddc84c648660f4b8ba3e7e187f2631613922a60d907e044"
+hash = "54655dc41dae18cae6e54c5e1ddfcf36bebe58519bfc693eb9d1a93f1bf57b69"
 metafile = true
 
 [[files]]
@@ -208,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/underfabric.toml"
 hash = "0a79d00892bd186141aa3f93775f25b82d486e686d42fa834df7280ae9d20fca"
+metafile = true
+
+[[files]]
+file = "mods/world-blender-fabric.toml"
+hash = "7716bf604aa9bfe6226c364f72657cfdbc8b1bcc48525bacebf030555d479336"
 metafile = true
 
 [[files]]
