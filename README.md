@@ -21,7 +21,7 @@ The Tiny Tater Test modpack for our creative server
 | GlobalSpawn | [@DaFuqs](https://github.com/DaFuqs) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/globalspawn) |
 | Fabric Loot Crates | [@DaFuqs](https://github.com/DaFuqs) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-loot-crates) |
 | Bouncy Life | [@Siphalor](https://github.com/Siphalor) | [Modrinth](https://www.modrinth.com/mod/bouncy-life) |
-| Pingspam | [@BasiqueEvangelist](https://github.com/BasiqueEvangelist) | [Modrinth](https://www.modrinth.com/mod/pingspam) |
+| Pingspam* | [@BasiqueEvangelist](https://github.com/BasiqueEvangelist) | [Modrinth](https://www.modrinth.com/mod/pingspam) |
 | Territorial Base | [@profjb](https://github.com/profjb58) | [GitHub](https://github.com/Archydra-Studios/territorial-base) |
 | Through the Looking Glass | [@azazelthedemonlord](https://github.com/Dragonoidzero) | [GitHub](https://github.com/Archydra-Studios/through-the-looking-glass) |
 | Underfabric | [@Stonewall0210](https://github.com/Stonewall0210) | [Modrinth](https://modrinth.com/mod/underfabric) |
