@@ -181,8 +181,18 @@ hash = "9edc0aa7b696d1303803fc1ea6ee1ab4a48e4ca688fdba1ff696b7ee35409810"
 metafile = true
 
 [[files]]
+file = "mods/spark.toml"
+hash = "14b54ba69ae996a9bfd098a20fda591b09856c5d7c0618dff73773404e0a6915"
+metafile = true
+
+[[files]]
 file = "mods/starry-skies.toml"
 hash = "4c32b0d6b58933f9b00c861e649eeae1b9885a4039bd3c80cda59b27ebe58cf7"
+metafile = true
+
+[[files]]
+file = "mods/taterzens.toml"
+hash = "9e522a9e4823f296665ae0cbe30a4b87c2adb3d77479761571f6e8ded9701ee7"
 metafile = true
 
 [[files]]
