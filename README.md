@@ -30,6 +30,8 @@ The Tiny Tater Test modpack for our creative server
 | :fritater: | [@Stonewall0210](https://github.com/Stonewall0210) | [Modrinth](https://modrinth.com/mod/fritater) |
 | Immigistics | [@Immibis](https://github.com/immibis) | [Website](https://fibercraft.immibis.com/immihf/project.jsp?id=immibis%3Aimmigistics) |
 | Consistency+ | [@IMS212](https://github.com/IMS212) | [Modrinth](https://modrinth.com/mod/consistencyplus) |
+| World Blender | [@TelepathicGrunt](https://github.com/TelepathicGrunt) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/world-blender-fabric) |
+| Taterzens* | [@samolego](https://github.com/samolego) | [Modrinth](https://modrinth.com/mod/Taterzens) |
 
 #### Server Side
 | Mod name | Author | Mod Page |
@@ -42,3 +44,4 @@ The Tiny Tater Test modpack for our creative server
 | Healthcare | [@samo_lego](https://github.com/samolego) | [Modrinth](https://www.modrinth.com/mod/healthcare) |
 | Fabric Zones | [@SpaceClouds42](https://github.com/SpaceClouds42) | [GitHub](https://www.github.com/SpaceClouds42/FabricZones) |
 
+`*` Can also be installed exclusively on the server
