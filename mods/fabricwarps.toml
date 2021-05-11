@@ -1,6 +1,6 @@
 name = "FabricWarps"
 filename = "FabricWarps-0.2.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://edge.forgecdn.net/files/3279/358/FabricWarps-0.2.1.jar"

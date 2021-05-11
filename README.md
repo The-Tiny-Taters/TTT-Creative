@@ -1,6 +1,6 @@
 # TTTM-Creative
 The Tiny Tater Test modpack for our creative server
-  
+
 **Discord server:** [link](https://discord.gg/YeXshh3sKE)
 
 ## Mod List
@@ -21,7 +21,7 @@ The Tiny Tater Test modpack for our creative server
 | GlobalSpawn | [@DaFuqs](https://github.com/DaFuqs) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/globalspawn) |
 | Fabric Loot Crates | [@DaFuqs](https://github.com/DaFuqs) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-loot-crates) |
 | Bouncy Life | [@Siphalor](https://github.com/Siphalor) | [Modrinth](https://www.modrinth.com/mod/bouncy-life) |
-| Pingspam | [@BasiqueEvangelist](https://github.com/BasiqueEvangelist) | [Modrinth](https://www.modrinth.com/mod/pingspam) |
+| Pingspam* | [@BasiqueEvangelist](https://github.com/BasiqueEvangelist) | [Modrinth](https://www.modrinth.com/mod/pingspam) |
 | Territorial Base | [@profjb](https://github.com/profjb58) | [GitHub](https://github.com/Archydra-Studios/territorial-base) |
 | Through the Looking Glass | [@azazelthedemonlord](https://github.com/Dragonoidzero) | [GitHub](https://github.com/Archydra-Studios/through-the-looking-glass) |
 | Underfabric | [@Stonewall0210](https://github.com/Stonewall0210) | [Modrinth](https://modrinth.com/mod/underfabric) |
@@ -29,6 +29,10 @@ The Tiny Tater Test modpack for our creative server
 | Tiny Trash Can | [@Giggitybyte](https://github.com/Giggitybyte) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/tiny-trash-can) |
 | :fritater: | [@Stonewall0210](https://github.com/Stonewall0210) | [Modrinth](https://modrinth.com/mod/fritater) |
 | Immigistics | [@Immibis](https://github.com/immibis) | [Website](https://fibercraft.immibis.com/immihf/project.jsp?id=immibis%3Aimmigistics) |
+| Consistency+ | [@IMS212](https://github.com/IMS212) | [Modrinth](https://modrinth.com/mod/consistencyplus) |
+| World Blender | [@TelepathicGrunt](https://github.com/TelepathicGrunt) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/world-blender-fabric) |
+| Mythic Metals | [@Noaaan](https://github.com/Noaaan) | [Modrinth](https://modrinth.com/mod/mythicmetals) |
+| Alloy Forgery | [@Noaaan](https://github.com/Noaaan) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/alloy-forgery) |
 
 #### Server Side
 | Mod name | Author | Mod Page |
@@ -36,6 +40,10 @@ The Tiny Tater Test modpack for our creative server
 | Toms Server Utils | [@Geek202](https://github.com/Geek202) | [Modrinth](https://modrinth.com/mod/toms-server-utils) |
 | World Border Fix | [@Potatoboy](https://github.com/PotatoPresident) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/world-border-fix) |
 | FabricWarps | [@CodedSakura](https://github.com/CodedSakura) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabricwarps) |
+| FabricHomes | [@CodedSakura](https://github.com/CodedSakura) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabrichomes) |
+| FabricTPA | [@CodedSakura](https://github.com/CodedSakura) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabrictpa) |
 | Healthcare | [@samo_lego](https://github.com/samolego) | [Modrinth](https://www.modrinth.com/mod/healthcare) |
 | Fabric Zones | [@SpaceClouds42](https://github.com/SpaceClouds42) | [GitHub](https://www.github.com/SpaceClouds42/FabricZones) |
+| Taterzens | [@samolego](https://github.com/samolego) | [Modrinth](https://modrinth.com/mod/Taterzens) |
 
+`*` Can also be installed exclusively on the server, but add some extra features on client

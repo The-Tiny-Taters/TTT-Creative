@@ -31,8 +31,13 @@ hash = "198b707765f67dd2baa93ad0c52f5a55411b8301c34f00764dd3f0a3f4eb6098"
 metafile = true
 
 [[files]]
+file = "mods/consistencyplus.toml"
+hash = "48ca264f78795c8758273cb9d080663825dee27a0850b7362d5b0373b8c350af"
+metafile = true
+
+[[files]]
 file = "mods/defibrillator.toml"
-hash = "792de788a16e234e8e0afddda5ba5a53248cefb4b0b9c737ff2f13c8dc57692c"
+hash = "568d2f5158c49df5763750fbe9049e88cd5837a730c1fbaca9119aeee62d94b6"
 metafile = true
 
 [[files]]
@@ -62,17 +67,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabrichomes.toml"
-hash = "861ec543bf0ed0594bf320c66079f3cf63479c60db1d892f31859048a878dc2e"
+hash = "0238a0b7787c35c352311e311f040ccd31829ccd8cd76056ece43e2a852d978c"
 metafile = true
 
 [[files]]
 file = "mods/fabrictpa.toml"
-hash = "527fc55c5c16bbd0ce16d66d3261e1bfcf3142f3d8d15a61032319b52dc43b6d"
+hash = "8b65dae015b9a8f1212cf61a85454640c798b2d08241f1495161a2f4ee655bd1"
 metafile = true
 
 [[files]]
 file = "mods/fabricwarps.toml"
-hash = "87086ff25e21a57a134675dbb6c962f173a1340e51a8359d5589d856f8d24270"
+hash = "f6f563bc1fbf1ef7cbe38735da8cacaa5192064420ba4f9527aa3b155be237d7"
 metafile = true
 
 [[files]]
@@ -97,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/healthcare.toml"
-hash = "77ddca02a72a51071b679b75ea9439b3ce224a5223a3b90298270b7f6fd86d60"
+hash = "ea499f3213e2f179d5fe2e33ad0bbf9803b4970cf9b259ffef1021f025f8b762"
 metafile = true
 
 [[files]]
@@ -162,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/pingspam.toml"
-hash = "cc6acea146761b60b9f2bb1f01e3125cd4000ddd2a7cfcb58f6e490cfee6dde0"
+hash = "3bb62662be21c556bd712dff67bd398aa7c7c2d90337b18acc54413e5da298ab"
 metafile = true
 
 [[files]]
@@ -177,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-angel-ring.toml"
-hash = "b9bbecf6348b3ddc7a542912ef52cc98c74b118ac16aec9435e77ea719932dc5"
+hash = "beda7b17d00d6e384f909200899deb9ca0c740e1d000bf00e9bd2dcff80f5628"
 metafile = true
 
 [[files]]
@@ -186,13 +191,23 @@ hash = "9edc0aa7b696d1303803fc1ea6ee1ab4a48e4ca688fdba1ff696b7ee35409810"
 metafile = true
 
 [[files]]
+file = "mods/spark.toml"
+hash = "14b54ba69ae996a9bfd098a20fda591b09856c5d7c0618dff73773404e0a6915"
+metafile = true
+
+[[files]]
 file = "mods/starry-skies.toml"
 hash = "4c32b0d6b58933f9b00c861e649eeae1b9885a4039bd3c80cda59b27ebe58cf7"
 metafile = true
 
 [[files]]
+file = "mods/taterzens.toml"
+hash = "9e522a9e4823f296665ae0cbe30a4b87c2adb3d77479761571f6e8ded9701ee7"
+metafile = true
+
+[[files]]
 file = "mods/territorial.toml"
-hash = "5bdf8de738e55446dddc84c648660f4b8ba3e7e187f2631613922a60d907e044"
+hash = "54655dc41dae18cae6e54c5e1ddfcf36bebe58519bfc693eb9d1a93f1bf57b69"
 metafile = true
 
 [[files]]
@@ -213,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/underfabric.toml"
 hash = "0a79d00892bd186141aa3f93775f25b82d486e686d42fa834df7280ae9d20fca"
+metafile = true
+
+[[files]]
+file = "mods/world-blender-fabric.toml"
+hash = "7716bf604aa9bfe6226c364f72657cfdbc8b1bcc48525bacebf030555d479336"
 metafile = true
 
 [[files]]

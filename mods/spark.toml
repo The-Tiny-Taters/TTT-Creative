@@ -1,0 +1,14 @@
+name = "spark"
+filename = "spark-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3245/789/spark-fabric.jar"
+hash-format = "murmur2"
+hash = "3015216618"
+
+[update]
+[update.curseforge]
+file-id = 3245789
+project-id = 361579
+release-channel = "beta"

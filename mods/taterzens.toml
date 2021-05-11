@@ -1,0 +1,13 @@
+name = "Taterzens"
+filename = "taterzens-1.0.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vE972Kux/versions/1.0.2/taterzens-1.0.2-fabric.jar"
+hash-format = "sha512"
+hash = "cc580d48db7cb37aca9be62524b4bd8a778b2d8f03f9b43ad0619181046a0590e65a58c0ce822ac923e488a43bb711b69e7ed31f92676e3be5f01ebfa4ff4d52"
+
+[update]
+[update.modrinth]
+mod-id = "vE972Kux"
+version = "1ye2Z2no"
