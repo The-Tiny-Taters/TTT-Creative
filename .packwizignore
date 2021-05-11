@@ -11,6 +11,8 @@ aof.zip
 
 packwiz.exe
 packwiz
+# I renamed it because packwiz kept tab completing to 'pack' since pack.toml is also in the same dir
+wiz
 autoupdate.bat
 
 # Exclude more tooltips, "[]" hashing is in-correct 

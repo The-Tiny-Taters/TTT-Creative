@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/alloy-forgery.toml"
+hash = "2bc55fdeffe2a50563b62b7070d18d46b608d0f13758f26240e0f10dd3194286"
+metafile = true
+
+[[files]]
 file = "mods/bee-angry-est.toml"
 hash = "2435239d167a4145774414ebba545b0d4276428315f3b27dfe0695326666167b"
 metafile = true
@@ -9,6 +14,10 @@ metafile = true
 file = "mods/better-op.toml"
 hash = "764edbf08b5cf0e4f1b7a3034f06b81e6abf3a14848a5d9dd70d21f77dc27416"
 metafile = true
+
+[[files]]
+file = "mods/better-op.toml.save"
+hash = "1fd8100620bf9a352bfba67d2c597f4e715a4af43da05af4895ba31d919ea020"
 
 [[files]]
 file = "mods/bits-and-chisels.toml"
@@ -133,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.toml"
 hash = "cbc1c51c63ad8de8978eec90d85522d429391ce43d017a3bbe6d6da3d20b2bb1"
+metafile = true
+
+[[files]]
+file = "mods/mythicmetals.toml"
+hash = "ff33ef73df37c5efb7887a1420541c44e52494fe219b8e2181f1d32194e2d686"
 metafile = true
 
 [[files]]
