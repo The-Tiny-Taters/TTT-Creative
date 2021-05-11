@@ -16,10 +16,6 @@ hash = "764edbf08b5cf0e4f1b7a3034f06b81e6abf3a14848a5d9dd70d21f77dc27416"
 metafile = true
 
 [[files]]
-file = "mods/better-op.toml.save"
-hash = "1fd8100620bf9a352bfba67d2c597f4e715a4af43da05af4895ba31d919ea020"
-
-[[files]]
 file = "mods/bits-and-chisels.toml"
 hash = "1d873734f2e3964fe45222bb1c7788cb6e91c08210d01853dd945e499d65ad34"
 metafile = true
