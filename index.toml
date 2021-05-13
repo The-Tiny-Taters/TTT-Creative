@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/healthcare.toml"
-hash = "ea499f3213e2f179d5fe2e33ad0bbf9803b4970cf9b259ffef1021f025f8b762"
+hash = "f000f666c1deab9b392b610d2b77ddc5867003e9aa623cdd309b2cda2f87d7f8"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/taterzens.toml"
-hash = "9e522a9e4823f296665ae0cbe30a4b87c2adb3d77479761571f6e8ded9701ee7"
+hash = "bc9c07346cdb04a1ea472284319cbd9ef41e973c6da009742144b4cc0ea097ac"
 metafile = true
 
 [[files]]
