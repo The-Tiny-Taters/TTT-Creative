@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/underfabric.toml"
-hash = "0a79d00892bd186141aa3f93775f25b82d486e686d42fa834df7280ae9d20fca"
+hash = "41283e3ca23a44522abd55ed763f51a67b1cf5d9fccf6ca5f9463f1a03873cb0"
 metafile = true
 
 [[files]]
