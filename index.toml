@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/bits-and-chisels.toml"
-hash = "1d873734f2e3964fe45222bb1c7788cb6e91c08210d01853dd945e499d65ad34"
+hash = "150e674ab1d62ed8f8623035a768759ca47eaf6c1df69e1eaae5c2127cbb17c3"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/consistencyplus.toml"
-hash = "48ca264f78795c8758273cb9d080663825dee27a0850b7362d5b0373b8c350af"
+hash = "49c6a97fb5a6ffd5a9d107c1770be2c3854f05fb8aaefff560d96fda58a1f0a5"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/immigistics.toml"
-hash = "aa0a25de9b074612e6b172e2542eb7f4bdc331472d0bfd55f9af097171c6a0da"
+hash = "5dd8ec58a273b5a0868aeab1aba4c2d6907b7f8960e7f09bfb0a571993676221"
 metafile = true
 
 [[files]]

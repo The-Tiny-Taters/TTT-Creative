@@ -1,8 +1,8 @@
 name = "Immigistics"
-filename = "immigistics-0.1.2.jar"
+filename = "immigistics-0.1.3.jar"
 side = "both"
 
 [download]
-url = "https://immibis.com/mcmoddl/files/immigistics-0.1.2.jar"
+url = "https://immibis.com/mcmoddl/files/immigistics-0.1.3.jar"
 hash-format = "sha256"
-hash = "92C7C6CBEDB990D799A9290F3C16337A5FCFED206EF5F0FC7E2D0F0F1CB65A5B"
+hash = "5820852ED34F7DF5AFDCF1A911E833471A8F3285283B8F332E8E94C9B2726DCF"
